@@ -3,9 +3,12 @@
 Blocklist terpadu untuk situs judi online / gambling regional Indonesia. Dibangun otomatis dengan menggabungkan & membersihkan beberapa sumber terpercaya.
 
 ## Daftar Sumber (Sources)
-* [uun-aja / judol-blocklist](https://github.com/uun-aja/judol-blocklist)
-* [arfshl / anti-gambling-domains](https://github.com/arfshl/anti-gambling-domains)
-* [mwhd96 / BlockListJudol](https://github.com/mwhd96/BlockListJudol)
+* [uun-aja / judol-blocklist](https://github.com/uun-aja/judol-blocklist) (Indonesia regional)
+* [arfshl / anti-gambling-domains](https://github.com/arfshl/anti-gambling-domains) (Indonesia regional)
+* [mwhd96 / BlockListJudol](https://github.com/mwhd96/BlockListJudol) (Indonesia regional)
+* [elliotwutingfeng / ACMA-blocked-gambling-websites](https://github.com/elliotwutingfeng/ACMA-blocked-gambling-websites) (Australian Govt blocklist)
+* [RA-Apps / AdGuard-Gambling-List](https://github.com/RA-Apps/AdGuard-Gambling-List) (Global blocklist)
+* [bigdargon / hostsVN (Gambling Extension)](https://github.com/bigdargon/hostsVN) (Vietnam/Global blocklist - highly active)
 
 ## Cara Menggunakan di Pi-hole
 1. Buka Web GUI Pi-hole Anda.

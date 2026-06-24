@@ -5,9 +5,12 @@ import os
 SOURCES = {
     "uun-aja_1": "https://raw.githubusercontent.com/uun-aja/judol-blocklist/main/judol-list.txt",
     "uun-aja_2": "https://raw.githubusercontent.com/uun-aja/judol-blocklist/main/judol-list02_bersih.txt",
-    "uun-aja_3": "https://raw.githubusercontent.com/uun-aja/judol-blocklist/main/live-judol-indo.txt",
     "arfshl": "https://raw.githubusercontent.com/arfshl/anti-gambling-domains/main/domains.txt",
-    "mwhd96": "https://raw.githubusercontent.com/mwhd96/BlockListJudol/main/blockjudol.txt"
+    "mwhd96": "https://raw.githubusercontent.com/mwhd96/BlockListJudol/main/blockjudol.txt",
+    "acma_australia": "https://raw.githubusercontent.com/elliotwutingfeng/ACMA-blocked-gambling-websites/main/urls-pihole.txt",
+    "adguard_gambling": "https://raw.githubusercontent.com/RA-Apps/AdGuard-Gambling-List/main/blocklist.txt",
+    "hosts_vn_gambling": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/domain.txt",
+    "hosts_vn_gambling_local": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/domain-VN.txt"
 }
 
 def clean_domain(domain):
